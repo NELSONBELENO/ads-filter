@@ -1,5 +1,3 @@
-!Ads ====================
-
 ! Google Ads
 ||pagead2.googlesyndication.com^
 ||ads.google.com^
@@ -209,4 +207,13 @@
 ||books-analytics-events.apple.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
+
+
+!Personales
+||wortise.com^
+||jscssfunny.com^
+||heroscloud.com^
+||sharemusic5.com^
+||h5acg2020.com^
+||sentry-cdn.com^
 ! End
