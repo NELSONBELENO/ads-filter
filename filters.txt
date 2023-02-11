@@ -19,3 +19,5 @@
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
 ||system-notify.app^
+/_xa/ads?
+/_xa/ads_batch?ads=$xmlhttprequest,script
