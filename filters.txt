@@ -18,6 +18,15 @@
 ||metrics5.data.hicloud.com^
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
+
+!Nuevos
+
 ||system-notify.app^
 /_xa/ads?
 /_xa/ads_batch?ads=$xmlhttprequest,script
+||xvideos.com/zoneload/
+||trafficjunky.com^
+||xnxx.com/zoneload/
+||appmetrica.yandex.com^
+||cams.xnxx.com^
+||cams.xvideos.com^
