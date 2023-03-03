@@ -1,3 +1,21 @@
+! Filtro Personal
+
+! Permitidos
+@@||adgrx.com^
+@@||cbsinteractive.com^
+@@||clubtv.link^
+@@||easysol.net^
+@@||mas-ext.amazon.com^
+@@||movistar.co^
+@@||paramountplus.com^
+@@||samsung.com^
+@@||samsungads.com^
+@@||samsungcloudsolution.com^
+@@||samsungosp.com^
+@@||samsungqbe.com^
+@@||telefonicawebsites.co^
+
+! Bloqueados
 ||wortise.com^
 ||jscssfunny.com^
 ||heroscloud.com^
