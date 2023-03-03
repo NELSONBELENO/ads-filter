@@ -38,3 +38,4 @@
 vertvcable.com##div.ads
 vertvcable.com##div.alert1
 vertvcable.com##div.ads.ads_header
+vertvcable.com##div.ads ads_header
