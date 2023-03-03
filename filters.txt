@@ -35,7 +35,6 @@
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
 
-vertvcable.com##div.ads
-vertvcable.com##div.alert1
-vertvcable.com##div.ads.ads_header
-vertvcable.com##div.ads ads_header
+##.ads_header
+vertvcable.com##.ads_header
+vertvcable.com###add_header
