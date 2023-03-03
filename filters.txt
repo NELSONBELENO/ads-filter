@@ -34,3 +34,7 @@
 ||metrics5.data.hicloud.com^
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
+
+vertvcable.com##div.ads
+vertvcable.com##div.alert1
+vertvcable.com##div.ads.ads_header
