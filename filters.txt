@@ -35,3 +35,4 @@
 ||dzc-metrics.mzstatic.com^
 ||appmetrica.yandex.ru^
 ||appmetrica.yandex.com^
+||d2wy8f7a9ursnm.cloudfront.net^
