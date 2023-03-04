@@ -34,4 +34,4 @@
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
 ||appmetrica.yandex.ru^
-||redirect.appmetrica.yandex.com^
+||appmetrica.yandex.com^
