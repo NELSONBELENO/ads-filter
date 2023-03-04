@@ -35,6 +35,7 @@
 ||samsung-com.112.2o7.net^
 ||dzc-metrics.mzstatic.com^
 
-##.ads_header
-vertvcable.com##.ads_header
-vertvcable.com###add_header
+vertvcable.com##div[id="ventana-flotante"]
+vertvcable.com##div[id="contenedor"]
+vertvcable.com##div[class^="cerrar"]
+vertvcable.com##div[class^="contenido"]
