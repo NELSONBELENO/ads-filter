@@ -8,7 +8,7 @@
 @@||mas-ext.amazon.com^
 @@||movistar.co^
 @@||paramountplus.com^
-@@||samsungads.com^
+!@@||samsungads.com^
 @@||samsungcloudsolution.com^
 @@||samsungosp.com^
 @@||samsungqbe.com^
