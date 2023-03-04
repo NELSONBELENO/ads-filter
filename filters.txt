@@ -36,3 +36,4 @@
 ||appmetrica.yandex.ru^
 ||appmetrica.yandex.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||com/banner/$image,object,subdocument,domain=~pingdom.com|~thetvdb.com|~tooltrucks.com^
