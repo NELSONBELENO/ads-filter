@@ -5,11 +5,9 @@
 @@||easysol.net^
 @@||mas-ext.amazon.com^
 @@||paramountplus.com^
-!@@||samsungads.com^
 @@||samsungcloudsolution.com^
 @@||samsungosp.com^
 @@||samsungqbe.com^
-!@@||telefonicawebsites.co^
 @@||config.unityads.unity3d.com^
 @@||configv2.unityads.unity3d.com^
 
