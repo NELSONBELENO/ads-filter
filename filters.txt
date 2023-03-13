@@ -9,7 +9,7 @@
 @@||samsungcloudsolution.com^
 @@||samsungosp.com^
 @@||samsungqbe.com^
-@@||telefonicawebsites.co^
+!@@||telefonicawebsites.co^
 @@||config.unityads.unity3d.com^
 @@||configv2.unityads.unity3d.com^
 
