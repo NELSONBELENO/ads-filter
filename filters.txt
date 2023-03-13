@@ -1,20 +1,19 @@
-! Filtro Personal
-
-! Permitidos
+!Permitidos
 @@||adgrx.com^
 @@||cbsinteractive.com^
 @@||clubtv.link^
 @@||easysol.net^
 @@||mas-ext.amazon.com^
-@@||movistar.co^
 @@||paramountplus.com^
 !@@||samsungads.com^
 @@||samsungcloudsolution.com^
 @@||samsungosp.com^
 @@||samsungqbe.com^
 @@||telefonicawebsites.co^
+@@||config.unityads.unity3d.com^
+@@||configv2.unityads.unity3d.com^
 
-! Bloqueados
+!Bloqueados
 ||wortise.com^
 ||jscssfunny.com^
 ||heroscloud.com^
@@ -36,4 +35,3 @@
 ||appmetrica.yandex.ru^
 ||appmetrica.yandex.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
-||com/banner/$image,object,subdocument,domain=~pingdom.com|~thetvdb.com|~tooltrucks.com
