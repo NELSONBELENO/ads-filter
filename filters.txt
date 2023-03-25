@@ -33,3 +33,6 @@
 ||appmetrica.yandex.ru^
 ||appmetrica.yandex.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||api-api.com^
+||www.api-api.com^
+||global.cmcs.service.amazonsilk.com^
