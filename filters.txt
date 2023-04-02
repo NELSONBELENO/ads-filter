@@ -36,3 +36,11 @@
 ||api-api.com^$important
 ||www.api-api.com^$important
 ||global.cmcs.service.amazonsilk.com^$important
+||partpedestal.com^$important
+||improviseprofane.com^$important
+||defiancebelow.com^$important
+||95urbehxy2dh.top^$important
+||missilesurvive.com^$important
+||dirtysuspension.com^$important
+||voyageschoolanymore.com^$important
+||98433e7c.asertdnsresearch.com^$client=146.88.240.0/24
