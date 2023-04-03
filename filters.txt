@@ -47,3 +47,6 @@
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
 ||2o7.net^$third-party
 ||googleadservices.com^$third-party
+||mxpnl.com^$third-party
+||googletagmanager.com/gtm.js$third-party
+||googletagmanager.com/gtag/$third-party
