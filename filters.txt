@@ -43,3 +43,7 @@
 ||missilesurvive.com^$important
 ||dirtysuspension.com^$important
 ||voyageschoolanymore.com^$important
+||hotjar.com^$third-party
+||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
+||2o7.net^$third-party
+||googleadservices.com^$third-party
