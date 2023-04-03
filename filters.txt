@@ -58,3 +58,8 @@
 ||scorecardresearch.com^$third-party
 ||quantserve.com^$~object,third-party
 ||crsspxl.com^$third-party
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw
+||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt
+||btloader.com^$third-party
+||histats.com^$third-party
+||waust.at^$third-party
