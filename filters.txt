@@ -1,3 +1,4 @@
+!-------------------------------------------------------------------!
 !Permitidos
 @@||adgrx.com^$important
 @@||cbsinteractive.com^$important
@@ -10,6 +11,7 @@
 @@||samsungqbe.com^$important
 @@||config.unityads.unity3d.com^$important
 @@||configv2.unityads.unity3d.com^$important
+!-------------------------------------------------------------------!
 
 !Bloqueados
 ||wortise.com^$important
@@ -19,8 +21,7 @@
 ||h5acg2020.com^$important
 ||browser.sentry-cdn.com^$important
 ||widgets.pinterest.com^$important
-||ck.ads.oppomobile.com^$important
-||g1.ads.oppomobile.com^$important
+||ads.oppomobile.com^$important
 ||www.cdn.ad.xiaomi.com^$important
 ||metrics.data.hicloud.com^$important
 ||metrics1.data.hicloud.com^$important
@@ -43,6 +44,7 @@
 ||missilesurvive.com^$important
 ||dirtysuspension.com^$important
 ||voyageschoolanymore.com^$important
+
 ||hotjar.com^$third-party
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
 ||2o7.net^$third-party
@@ -50,3 +52,9 @@
 ||mxpnl.com^$third-party
 ||googletagmanager.com/gtm.js$third-party
 ||googletagmanager.com/gtag/$third-party
+||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~id.x5.ru
+||simplewebanalysis.com^$third-party
+||a.apkpure.com/analytics_*.js
+||scorecardresearch.com^$third-party
+||quantserve.com^$~object,third-party
+||crsspxl.com^$third-party
