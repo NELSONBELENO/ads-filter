@@ -43,4 +43,3 @@
 ||missilesurvive.com^$important
 ||dirtysuspension.com^$important
 ||voyageschoolanymore.com^$important
-||98433e7c.asertdnsresearch.com^$client=146.88.240.0/24
