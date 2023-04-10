@@ -1,5 +1,3 @@
-!-------------------------------------------------------------------!
-!Permitidos
 @@||adgrx.com^$important
 @@||cbsinteractive.com^$important
 @@||clubtv.link^$important
@@ -11,9 +9,7 @@
 @@||samsungcloudsolution.com^$important
 @@||samsungosp.com^$important
 @@||samsungqbe.com^$important
-!-------------------------------------------------------------------!
 
-!Bloqueados
 ||95urbehxy2dh.top^$important
 ||ads.oppomobile.com^$important
 ||api-api.com^$important
@@ -44,22 +40,4 @@
 ||wortise.com^$important
 ||www.api-api.com^$important
 ||www.cdn.ad.xiaomi.com^$important
-
-||2o7.net^$third-party
-||a.apkpure.com/analytics_*.js
-||btloader.com^$third-party
-||crsspxl.com^$third-party
-||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
-||googleadservices.com^$third-party
-||googletagmanager.com/gtag/$third-party
-||googletagmanager.com/gtm.js$third-party
-||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt
-||histats.com^$third-party
-||hotjar.com^$third-party
-||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~id.x5.ru
-||mxpnl.com^$third-party
-||quantserve.com^$~object,third-party
-||scorecardresearch.com^$third-party
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw
-||simplewebanalysis.com^$third-party
-||waust.at^$third-party
+||a.apkpure.com/analytics_*.js^$important
