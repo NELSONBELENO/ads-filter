@@ -11,7 +11,7 @@
 @@||samsungqbe.com^$important
 
 ||95urbehxy2dh.top^$important
-||a.apkpure.com/analytics_*.js^$important
+||a.apkpure.com^$important
 ||ads.oppomobile.com^$important
 ||api-api.com^$important
 ||appmetrica.yandex.com^$important
