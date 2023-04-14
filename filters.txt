@@ -42,3 +42,5 @@
 ||www.cdn.ad.xiaomi.com^$important
 ||hornygirls2fuck.com^$important
 ||date-and-fuck.com^$important
+||www.googleadservices.com^$important
+||googleadservices.com^$important
