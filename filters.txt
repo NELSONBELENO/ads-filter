@@ -15,6 +15,7 @@
 ||api-api.com^$important
 ||appmetrica.yandex.com^$important
 ||appmetrica.yandex.ru^$important
+||best4fuck.com^$important
 ||browser.sentry-cdn.com^$important
 ||d2wy8f7a9ursnm.cloudfront.net^$important
 ||date-and-fuck.com^$important
