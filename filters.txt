@@ -9,6 +9,7 @@
 @@||samsungcloudsolution.com^$important
 @@||samsungosp.com^$important
 @@||samsungqbe.com^$important
+@@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
 ||24news24.ru^$important
 ||95urbehxy2dh.top^$important
