@@ -91,3 +91,9 @@
 ||openerkey.com^$important
 ||shadyobscene.com^$important
 ||syndromeentered.com^$important
+||windymissphantom.com^$important
+||rampmention.com^$important
+||tideairtight.com^$important^$important
+||toothbrushconceitedsemi.com^$important
+||slashcynical.com^$important
+||presentationbishop.com^$important
