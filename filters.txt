@@ -11,7 +11,7 @@
 @@||samsungqbe.com^$important
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
-@@||eec.crunchyroll.com^$important
+@@||crunchyroll.com^$important
 ||24news24.ru^$important
 ||95urbehxy2dh.top^$important
 ||a.apkpure.com^$important
@@ -97,3 +97,5 @@
 ||toothbrushconceitedsemi.com^$important
 ||slashcynical.com^$important
 ||presentationbishop.com^$important
+||vrfupfyu.com^$important
+||declaredjuvenile.com^$important
