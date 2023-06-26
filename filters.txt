@@ -13,7 +13,6 @@
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
 ||ru^$important
-||top^$important
 ||22.109.87.38^$important
 ||23.109.248.170^$important
 ||24news24.ru^$important
@@ -103,3 +102,4 @@
 ||xml.galaxypush.com^$important
 ||xvpqmcgf.com^$important
 ||sjtbhdeakgsgr.com^$important
+||onefoldonefoldpitched.com^$important
