@@ -13,7 +13,6 @@
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
 ||ru^$important
-||jwpltx.com^$third-party
 ||22.109.87.38^$important
 ||23.109.248.170^$important
 ||95urbehxy2dh.top^$important
@@ -21,10 +20,10 @@
 ||a.apkpure.com^$important
 ||ads.oppomobile.com^$important
 ||api-api.com^$important
-||api-api.com^$important
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
 ||best4fuck.com^$important
+||betotodilea.com^$important
 ||borghgeog.com^$important
 ||bridgetumbril.space^$important
 ||browser.sentry-cdn.com^$important
@@ -37,6 +36,8 @@
 ||dirtysuspension.com^$important
 ||dzc-metrics.mzstatic.com^$important
 ||enbclpbyi.com^$important
+||exoclick.com^$important
+||gatetrck.com^$important
 ||global.cmcs.service.amazonsilk.com^$important
 ||gnjxesyfensbh.com^$important
 ||googleadservices.com^$important
@@ -49,10 +50,12 @@
 ||improviseprofane.com^$important
 ||istanbuld.com^$important
 ||jkkfnkxzf.com^$important
+||joupteni.xyz^$important
 ||jqlqmeveax.com^$important
 ||jscssfunny.com^$important
 ||jwpltx.com^$important
 ||latoken.com^$important
+||lintfeintshindig.com^$important
 ||ltzuqmgfdbciv.com^$important
 ||luddismwebworn.life^$important
 ||metrics.data.hicloud.com^$important
@@ -66,8 +69,10 @@
 ||mnoglcfv.com^$important
 ||onefoldonefoldpitched.com^$important
 ||openerkey.com^$important
+||outoctillerytor.com^$important
 ||partpedestal.com^$important
 ||presentationbishop.com^$important
+||psaltauw.net^$important
 ||rampmention.com^$important
 ||redic3.com^$important
 ||romancewithgirl.life^$important
@@ -79,11 +84,15 @@
 ||sharemusic5.com^$important
 ||sjtbhdeakgsgr.com^$important
 ||slashcynical.com^$important
+||static.namethatporn.com^$important
+||stats.esecured.net^$important
 ||syndromeentered.com^$important
 ||thereuponscare.com^$important
 ||tideairtight.com^$important^$important
 ||toothbrushconceitedsemi.com^$important
+||track.dalyio.com^$important
 ||trafficfactory.biz^$important
+||trafficjunky.com^$important
 ||tzegilo.com^$important
 ||videosworks.com^$important
 ||viglink.com^$important
@@ -96,5 +105,6 @@
 ||wortise.com^$important
 ||xml.galaxypush.com^$important
 ||xvpqmcgf.com^$important
+||yomeno.xyz^$important
 ||zhhxxnfuxn.com^$important
 ||zimpolo.com^$important
