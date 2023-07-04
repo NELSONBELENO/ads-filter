@@ -84,7 +84,6 @@
 ||sharemusic5.com^$important
 ||sjtbhdeakgsgr.com^$important
 ||slashcynical.com^$important
-||static.namethatporn.com^$important
 ||stats.esecured.net^$important
 ||syndromeentered.com^$important
 ||thereuponscare.com^$important
@@ -108,3 +107,4 @@
 ||yomeno.xyz^$important
 ||zhhxxnfuxn.com^$important
 ||zimpolo.com^$important
+||deghooda.net^$important
