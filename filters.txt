@@ -25,7 +25,6 @@
 ||api-api.com^$important
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
-||azaku.net^$important
 ||best4fuck.com^$important
 ||betotodilea.com^$important
 ||borghgeog.com^$important
