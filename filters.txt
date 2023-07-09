@@ -36,6 +36,7 @@
 ||deckedsi.com^$important
 ||declaredjuvenile.com^$important
 ||deephicy.net^$important
+||deephicy.net^$domain=ak.deephicy.net
 ||defiancebelow.com^$important
 ||deghooda.net^$important
 ||dirtysuspension.com^$important
@@ -85,6 +86,7 @@
 ||rrfolvppqeg.com^$important
 ||rtmark.net^$important
 ||rubricagalah.guru^$important
+||rubricagalah.guru^$domain=rubricagalah.guru
 ||samsung-com.112.2o7.net^$important
 ||shadyobscene.com^$important
 ||sharemusic5.com^$important
