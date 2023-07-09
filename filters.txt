@@ -13,6 +13,8 @@
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
 ||ru^$important
+||guru^$important
+||uno^$important
 ||22.109.87.38^$important
 ||23.109.248.170^$important
 ||95urbehxy2dh.top^$important
@@ -109,3 +111,4 @@
 ||zimpolo.com^$important
 ||deghooda.net^$important
 ||tjgpeswdkrym.com^$important
+||ak.deephicy.net^$important
