@@ -12,15 +12,16 @@
 @@||samsungqbe.com^$important
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
-||ru^$important
-||guru^$important
 ||uno^$important
+||guru^$important
+||ru^$important
 ||22.109.87.38^$important
 ||23.109.248.170^$important
 ||95urbehxy2dh.top^$important
 ||a.adforcast.com^$important
 ||a.apkpure.com^$important
 ||ads.oppomobile.com^$important
+||ak.deephicy.net^$important
 ||api-api.com^$important
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
@@ -35,6 +36,7 @@
 ||deckedsi.com^$important
 ||declaredjuvenile.com^$important
 ||defiancebelow.com^$important
+||deghooda.net^$important
 ||dirtysuspension.com^$important
 ||dzc-metrics.mzstatic.com^$important
 ||enbclpbyi.com^$important
@@ -90,6 +92,7 @@
 ||syndromeentered.com^$important
 ||thereuponscare.com^$important
 ||tideairtight.com^$important^$important
+||tjgpeswdkrym.com^$important
 ||toothbrushconceitedsemi.com^$important
 ||track.dalyio.com^$important
 ||trafficfactory.biz^$important
@@ -98,6 +101,8 @@
 ||videosworks.com^$important
 ||viglink.com^$important
 ||voyageschoolanymore.com^$important
+||vulkan-bt.com^$important
+||vulkanvegas-br.com^$important
 ||wateryzapsandwich.com^$important
 ||weavelurkwiden.com^$important
 ||whartfidalgo.life^$important
@@ -107,8 +112,6 @@
 ||xml.galaxypush.com^$important
 ||xvpqmcgf.com^$important
 ||yomeno.xyz^$important
+||zetchopa.xyz^$important
 ||zhhxxnfuxn.com^$important
 ||zimpolo.com^$important
-||deghooda.net^$important
-||tjgpeswdkrym.com^$important
-||ak.deephicy.net^$important
