@@ -4,6 +4,7 @@
 @@||config.unityads.unity3d.com^$important
 @@||configv2.unityads.unity3d.com^$important
 @@||crunchyroll.com^$important
+@@||crunchyrollsvc.com^$important
 @@||easysol.net^$important
 @@||mas-ext.amazon.com^$important
 @@||paramountplus.com^$important
