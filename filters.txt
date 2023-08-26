@@ -1,6 +1,5 @@
 @@||adgrx.com^$important
 @@||cbsinteractive.com^$important
-@@||clubtv.link^$important
 @@||config.unityads.unity3d.com^$important
 @@||configv2.unityads.unity3d.com^$important
 @@||crunchyroll.com^$important
@@ -100,7 +99,6 @@
 ||trafficfactory.biz^$important
 ||trafficjunky.com^$important
 ||tzegilo.com^$important
-||utilmakutu.guru^$important
 ||videosworks.com^$important
 ||viglink.com^$important
 ||voyageschoolanymore.com^$important
