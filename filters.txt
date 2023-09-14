@@ -4,6 +4,7 @@
 @@||configv2.unityads.unity3d.com^$important
 @@||crunchyroll.com^$important
 @@||crunchyrollsvc.com^$important
+@@||gccrunchyroll.com^$important
 @@||easysol.net^$important
 @@||mas-ext.amazon.com^$important
 @@||paramountplus.com^$important
@@ -12,6 +13,7 @@
 @@||samsungqbe.com^$important
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
+@@||sdk.iad-03.appboy.com^
 ||uno^$important
 ||ru^$important
 ||guru^$important
