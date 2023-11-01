@@ -28,6 +28,7 @@
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
 ||asconespulk.com^$important
+||assuredunskilledconnected.com^$important
 ||best4fuck.com^$important
 ||betotodilea.com^$important
 ||borghgeog.com^$important
