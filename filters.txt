@@ -24,13 +24,16 @@
 ||ad.xiaomi.com^$important
 ||ads.oppomobile.com^$important
 ||api-api.com^$important
+||appcation.top^$important
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
+||asconespulk.com^$important
 ||best4fuck.com^$important
 ||betotodilea.com^$important
 ||borghgeog.com^$important
 ||bridgetumbril.space^$important
 ||browser.sentry-cdn.com^$important
+||clickherre.site^$important
 ||d2wy8f7a9ursnm.cloudfront.net^$important
 ||date-and-fuck.com^$important
 ||deckedsi.com^$important
@@ -99,6 +102,7 @@
 ||track.dalyio.com^$important
 ||trafficfactory.biz^$important
 ||trafficjunky.com^$important
+||turdauch.xyz^$important
 ||tzegilo.com^$important
 ||videosworks.com^$important
 ||viglink.com^$important
@@ -118,6 +122,3 @@
 ||zetchopa.xyz^$important
 ||zhhxxnfuxn.com^$important
 ||zimpolo.com^$important
-||clickherre.site^$important
-||appcation.top^$important
-||turdauch.xyz^$important
