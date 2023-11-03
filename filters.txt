@@ -47,6 +47,7 @@
 ||enbclpbyi.com^$important
 ||exoclick.com^$important
 ||gatetrck.com^$important
+||givesboranes.com^$important
 ||global.cmcs.service.amazonsilk.com^$important
 ||gnjxesyfensbh.com^$important
 ||googleadservices.com^$important
@@ -78,6 +79,7 @@
 ||mnoglcfv.com^$important
 ||onefoldonefoldpitched.com^$important
 ||openerkey.com^$important
+||ordinardeuton.com^$important
 ||outoctillerytor.com^$important
 ||partpedestal.com^$important
 ||poumouja.xyz^$important
