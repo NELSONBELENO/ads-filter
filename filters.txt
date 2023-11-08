@@ -127,3 +127,4 @@
 ||zimpolo.com^$important
 ||parkedcountdownallows.com^$important
 ||jingalbundles.com^$important
+||mayestsunhat.com^$important
