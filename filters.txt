@@ -128,3 +128,4 @@
 ||parkedcountdownallows.com^$important
 ||jingalbundles.com^$important
 ||mayestsunhat.com^$important
+||glassdeterbullet.com^$important
