@@ -26,6 +26,7 @@
 ||ads.oppomobile.com^$important
 ||api-api.com^$important
 ||apiok.net^$important
+||api.apiok.net^$important
 ||appcation.top^$important
 ||appmetrica.yandex.com^$important
 ||armlockyakker.com^$important
