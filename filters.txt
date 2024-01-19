@@ -63,3 +63,5 @@
 ||vulkanvegas-br.com^$important
 ||wortise.com^$important
 ||bromidsluluai.com^$important
+||untineanunder.com^$important
+||zealshyalite.com^$important
