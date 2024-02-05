@@ -26,8 +26,6 @@
 ||asconespulk.com^$important
 ||assuredunskilledconnected.com^$important
 ||biterstraiky.life^$important
-||bridgetumbril.space^$important
-||bromidsluluai.com^$important
 ||browser.sentry-cdn.com^$important
 ||clickherre.site^$important
 ||d2wy8f7a9ursnm.cloudfront.net^$important
@@ -47,11 +45,8 @@
 ||latoken.com^$important
 ||mayestsunhat.com^$important
 ||miskenish.com^$important
-||paravaprese.com^$important
-||porailbond.com^$important
 ||rendchewed.com^$important
 ||romancewithgirl.life^$important
-||rouduranter.com^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
 ||surhaihaydn.com^$important
@@ -60,4 +55,3 @@
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
 ||wortise.com^$important
-||zealshyalite.com^$important
