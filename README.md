@@ -4,12 +4,12 @@ Este repositorio contiene mis propias listas de bloqueo de anuncios optimizadas 
 
 ## Listas Disponibles
 
-- **Filters**: Esta lista incluye las reglas básicas para bloquear anuncios y rastreadores comunes.
-- **Dns_filters**: Lista específica para bloquear anuncios y rastreadores en redes sociales populares.
+- **filters**: Esta lista incluye las reglas básicas para bloquear anuncios y rastreadores nuevos que surgen con el paso del tiempo.
+- **filters_dns**: Lista específica para bloquear anuncios y rastreadores que no están disponibles en las listas que ofrece el portal web de adgure dns.
 
 ## Cómo Utilizar
 
-1. **AdGuard DNS**: Puedes agregar estas listas directamente a tu configuración de AdGuard DNS a través de la interfaz web de tu enrutador o dispositivo compatible.
+1. **AdGuard DNS**: Puedes agregar estas listas directamente a tu configuración de AdGuard DNS a través de la interfaz web en la sección reglas de usuario.
 2. **AdGuard Home**: Para usar estas listas en AdGuard Home, simplemente agrega la URL de cada lista a la sección de "Listas de Filtro" en la configuración de AdGuard Home.
 
 ## Contribuciones
