@@ -15,6 +15,7 @@
 @@||samsungqbe.com^$important
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
+@@||thegodfatheriam.tech^
 ||uno^$important
 ||ru^$important
 ||guru^$important
@@ -44,7 +45,6 @@
 ||latoken.com^$important
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
-||surhaihaydn.com^$important
 ||untineanunder.com^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
