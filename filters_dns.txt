@@ -25,7 +25,6 @@
 ||appcation.top^$important
 ||asconespulk.com^$important
 ||assuredunskilledconnected.com^$important
-||biterstraiky.life^$important
 ||browser.sentry-cdn.com^$important
 ||clickherre.site^$important
 ||daltondisappearanceshine.com^$important
@@ -43,9 +42,9 @@
 ||jkkfnkxzf.com^$important
 ||jscssfunny.com^$important
 ||latoken.com^$important
+||rendchewed.com^$important
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
-||untineanunder.com^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
