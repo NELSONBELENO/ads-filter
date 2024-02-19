@@ -25,7 +25,6 @@
 ||appmetrica.yandex.com^$important
 ||asconespulk.com^$important
 ||assuredunskilledconnected.com^$important
-||biterstraiky.life^$important
 ||browser.sentry-cdn.com^$important
 ||clickherre.site^$important
 ||d2wy8f7a9ursnm.cloudfront.net^$important
@@ -45,11 +44,9 @@
 ||latoken.com^$important
 ||mayestsunhat.com^$important
 ||miskenish.com^$important
-||rendchewed.com^$important
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
-||untineanunder.com^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
