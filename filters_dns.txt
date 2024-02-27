@@ -43,6 +43,7 @@
 ||rendchewed.com^$important
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
+||tapi.apkpure.net^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
