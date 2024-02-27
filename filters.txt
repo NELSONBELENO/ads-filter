@@ -45,6 +45,7 @@
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
+||tapi.apkpure.net^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
