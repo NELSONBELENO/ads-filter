@@ -13,6 +13,7 @@
 @@||samsungqbe.com^$important
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
+@@||thegodfatheriam.tech^$important
 ||uno^$important
 ||ru^$important
 ||guru^$important
