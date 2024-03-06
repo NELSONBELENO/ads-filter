@@ -54,6 +54,7 @@
 ||play1ad.shop^$important
 ||progenyoverhear.com^$important
 ||pursuitbelieved.com^$important
+||putchumt.com^$important
 ||romancewithgirl.life^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
@@ -62,5 +63,6 @@
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
+||woapheer.com^$important
 ||wortise.com^$important
 ||zougreek.com^$important
