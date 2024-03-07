@@ -5,7 +5,6 @@ Este repositorio contiene mis propias listas de bloqueo de anuncios optimizadas 
 ## Listas Disponibles
 
 - **filters**: Esta lista incluye las reglas básicas para bloquear anuncios y rastreadores nuevos que surgen con el paso del tiempo.
-- **filters_dns**: Lista específica para bloquear anuncios y rastreadores que no están disponibles en las listas que ofrece el portal web de adgure dns.
 
 ## Cómo Utilizar
 
