@@ -59,3 +59,5 @@
 ||vulkanvegas-br.com^$important
 ||wortise.com^$important
 ||zougreek.com^$important
+||vuvwlesiu.xyz^$important
+||noupsube.xyz^$important
