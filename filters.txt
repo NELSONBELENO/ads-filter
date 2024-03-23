@@ -14,6 +14,7 @@
 @@||sdk.iad-01.braze.com^$important
 @@||t.indeed.com^$important
 @@||thegodfatheriam.tech^$important
+@@||winudf.com^$important
 ||uno^$important
 ||ru^$important
 ||guru^$important
@@ -33,6 +34,7 @@
 ||clickherre.site^$important
 ||compasswhitest.top^$important
 ||country.is^$important
+||credapbava.com^$important
 ||daltondisappearanceshine.com^$important
 ||date-and-fuck.com^$important
 ||dzc-metrics.mzstatic.com^$important
@@ -53,14 +55,16 @@
 ||latoken.com^$important
 ||mayestsunhat.com^$important
 ||miskenish.com^$important
+||mkdyhfepohejx.xyz^$important
 ||nurlscleping.com^$important
 ||play1ad.shop^$important
 ||romancewithgirl.life^$important
+||rotondagud.com^$important
+||sgihava.com^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
 ||tapi.apkpure.net^$important
-||toothcauldron.com^$important
-||udalmancozen.com^$important
+||theehouho.xyz^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
