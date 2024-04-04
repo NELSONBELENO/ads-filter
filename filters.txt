@@ -24,12 +24,10 @@
 ||appcation.top^$important
 ||appmetrica.yandex.com^$important
 ||asconespulk.com^$important
-||assuredunskilledconnected.com^$important
 ||aungudie.com^$important
 ||automenunct.com^$important
 ||browser.sentry-cdn.com^$important
 ||bureausdenning.com^$important
-||buyfrightencheckup.com^$important
 ||cfncsxgx.xyz^$important
 ||clickherre.site^$important
 ||compasswhitest.top^$important
@@ -38,8 +36,6 @@
 ||daltondisappearanceshine.com^$important
 ||date-and-fuck.com^$important
 ||dzc-metrics.mzstatic.com^$important
-||echevintrunnel.top^$important
-||fratchyaeolist.com^$important
 ||frwyfaxed.com^$important
 ||gatetrck.com^$important
 ||glassdeterbullet.com^$important
@@ -59,12 +55,9 @@
 ||nurlscleping.com^$important
 ||play1ad.shop^$important
 ||romancewithgirl.life^$important
-||rotondagud.com^$important
-||sgihava.com^$important
 ||sharemusic5.com^$important
 ||stats.esecured.net^$important
 ||tapi.apkpure.net^$important
-||theehouho.xyz^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
@@ -72,4 +65,3 @@
 ||whiteinflammablejaws.com^$important
 ||wikpuncars.com^$important
 ||wortise.com^$important
-||zougreek.com^$important
