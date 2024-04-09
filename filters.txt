@@ -23,9 +23,6 @@
 ||apiok.net^$important
 ||appcation.top^$important
 ||appmetrica.yandex.com^$important
-||asconespulk.com^$important
-||aungudie.com^$important
-||automenunct.com^$important
 ||browser.sentry-cdn.com^$important
 ||bureausdenning.com^$important
 ||cfncsxgx.xyz^$important
@@ -36,7 +33,6 @@
 ||daltondisappearanceshine.com^$important
 ||date-and-fuck.com^$important
 ||dzc-metrics.mzstatic.com^$important
-||frwyfaxed.com^$important
 ||gatetrck.com^$important
 ||glassdeterbullet.com^$important
 ||global.cmcs.service.amazonsilk.com^$important
@@ -54,9 +50,7 @@
 ||mkdyhfepohejx.xyz^$important
 ||nurlscleping.com^$important
 ||play1ad.shop^$important
-||romancewithgirl.life^$important
 ||sharemusic5.com^$important
-||stats.esecured.net^$important
 ||tapi.apkpure.net^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
