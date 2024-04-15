@@ -5,6 +5,7 @@
 @@||crunchyrollsvc.com^$important
 @@||easysol.net^$important
 @@||gccrunchyroll.com^$important
+@@||imasdk.googleapis.com^$important
 @@||mas-ext.amazon.com^$important
 @@||ok.ru^$important
 @@||paramountplus.com^$important
@@ -48,7 +49,6 @@
 ||mayestsunhat.com^$important
 ||miskenish.com^$important
 ||mkdyhfepohejx.xyz^$important
-||nurlscleping.com^$important
 ||play1ad.shop^$important
 ||sharemusic5.com^$important
 ||tapi.apkpure.net^$important
