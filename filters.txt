@@ -25,7 +25,6 @@
 ||appcation.top^$important
 ||appmetrica.yandex.com^$important
 ||browser.sentry-cdn.com^$important
-||bureausdenning.com^$important
 ||cfncsxgx.xyz^$important
 ||clickherre.site^$important
 ||compasswhitest.top^$important
@@ -46,8 +45,6 @@
 ||istanbuld.com^$important
 ||jscssfunny.com^$important
 ||latoken.com^$important
-||mayestsunhat.com^$important
-||miskenish.com^$important
 ||mkdyhfepohejx.xyz^$important
 ||play1ad.shop^$important
 ||sharemusic5.com^$important
