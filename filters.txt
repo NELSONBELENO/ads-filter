@@ -30,6 +30,7 @@
 ||credapbava.com^$important
 ||daltondisappearanceshine.com^$important
 ||date-and-fuck.com^$important
+||disqus.com^$important
 ||dzc-metrics.mzstatic.com^$important
 ||gatetrck.com^$important
 ||glairtakee.net^$important
@@ -46,14 +47,15 @@
 ||jscssfunny.com^$important
 ||latoken.com^$important
 ||mkdyhfepohejx.xyz^$important
-||ninetyfitful.com^$important
 ||oilwellsublot.top^$important
 ||onclckbn.com^$important
 ||paiyrqaz.com^$important
 ||play1ad.shop^$important
 ||sharemusic5.com^$important
 ||stairwayexplains.top^$important
+||thoonsoard.net^$important
 ||uekmcvaoaq.com^$important
+||vhvpugwe.com^$important
 ||vulkan-bt.com^$important
 ||vulkanbet.me^$important
 ||vulkanvegas-br.com^$important
